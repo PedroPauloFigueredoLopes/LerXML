@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livraria>
+    <livro>
+        <titulo>Java Programming</titulo>
+        <autor>John Doe</autor>
+        <preco>29.99</preco>
+    </livro>
+    <livro>
+        <titulo>XML in Action</titulo>
+        <autor>Jane Smith</autor>
+        <preco>39.95</preco>
+    </livro>
+</livraria>

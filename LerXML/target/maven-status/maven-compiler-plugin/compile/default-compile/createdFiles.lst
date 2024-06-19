@@ -1,0 +1,3 @@
+com\exemplo\xml\schema\ObjectFactory.class
+com\exemplo\xml\schema\Livraria.class
+com\exemplo\xml\schema\Livraria$Livro.class

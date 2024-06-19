@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livraria>
+    <livro>
+        <titulo>Código Limpo</titulo>
+        <autor>Robert C. Martin</autor>
+        <preco>testeaprimora</preco>
+    </livro>
+    <livro>
+        <titulo>XML com CXF</titulo>
+        <autor>Jackie Chan</autor>
+        <preco>00.00</preco>
+    </livro>
+</livraria>
